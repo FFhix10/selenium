@@ -35,6 +35,10 @@
     "react-dom": "^16.13.1",
     "react-json-view": "^1.21.3",
     "react-modal": "^3.11.2",
+snyk-fix-9d0dd27c614e41243bdefbecb6e6b45b
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+
     "react-router-dom": "^5.2.0", snyk-fix-0606a4238a06837cb99c6c38f4166c46
     "react-scripts": "3.4.4",
 
